@@ -216,4 +216,4 @@ BattleForge is available as a full free version, with all features and updates i
 Don't miss the opportunity to experience the thrill of BattleForge! Download now and start your adventure today!
 
 ---
-**Last updated:** 2026-09-26 12:48:32 UTC
+**Last updated:** 2026-09-26 16:57:21 UTC
